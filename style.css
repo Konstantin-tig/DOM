@@ -1,0 +1,17 @@
+
+/* Задание 1 */
+
+.title_remove {
+    display: none;
+}
+
+/* Задание 2 */
+
+.textEl {
+    color: blue;
+}
+
+.btn_5 {
+    display: block;
+    margin-top: 20px;
+}
